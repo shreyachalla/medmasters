@@ -3,7 +3,7 @@ Democratizing data analytics for doctors by empowering them to query databases w
 
 ## [Demo](https://www.loom.com/share/d970a5f21d1745c29aaa8a65c8c26a57?sid=e7ae7a0f-f2ed-4932-aed3-7b04948bf49b ) 
 
-Hacklytics 2024
+Hacklytics 2024, Georiga Tech's Data Science & AI Hackathon
 - Shreya Challa
 - Hannah Peter
 - Hayim Heron
